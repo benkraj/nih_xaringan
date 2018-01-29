@@ -117,15 +117,6 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 }
 
 
-
-
-/*~~~~~~~~~~~~~~*/
-/* NIH additions */
-/*~~~~~~~~~~~~~~*/
-
-
-
-
 /*~~~~~~~~~~~~~*/
 /* Title slide */
 /*~~~~~~~~~~~~~*/
@@ -134,7 +125,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 .title-slide {
   background-image: url(https://raw.githubusercontent.com/benkraj/nih_xaringan/master/NIH_NIAAA_Master_Logo_2Color.png);
   background-position: 9% 15%;
-  background-size: 55px;
+  background-size: 100px;
   background-color: #fff;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
