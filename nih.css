@@ -241,11 +241,6 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 .remark-slide-content {
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
-/* trying out the scale function */
-remark.macros.scale = function (percentage) {
-  var url = this;
-  return '<img src="' + url + '" style="width: ' + percentage + '" />';
-};
 
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
